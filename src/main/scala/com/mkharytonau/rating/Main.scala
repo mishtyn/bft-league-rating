@@ -191,6 +191,59 @@ object Main extends App {
           )
         )
       )
+    ),
+    CompetitionConfig(
+      name = CompetitionName("Минский Триатлон"),
+      events = List(
+        EventConfig(
+          EventName("Полная. Минский Триатлон", "MinskTriathlonIronmen"),
+          EventCategory.Stayer,
+          ResourcePath("2026/MinskTriathlon/ironman"),
+          EventResultsReader.Configured(
+            "Фамилия Имя",
+            ParseResult.HoursMinutesSecondsMillisOrTens("Время"),
+            ParseGender.ByField("Пол", "М", "Ж")
+          ),
+          1000.0,
+          locatedInInnerFolder = true
+        ),
+        EventConfig(
+          EventName("Половинка. Минский Триатлон", "MinskTriathlonHalfIronmen"),
+          EventCategory.Stayer,
+          ResourcePath("2026/MinskTriathlon/halfironman"),
+          EventResultsReader.Configured(
+            "Фамилия Имя",
+            ParseResult.HoursMinutesSecondsMillisOrTens("Время"),
+            ParseGender.ByField("Пол", "М", "Ж")
+          ),
+          900.0,
+          locatedInInnerFolder = true
+        ),
+        EventConfig(
+          EventName("Олимпийка. Минский Триатлон", "MinskTriathlonOlympic"),
+          EventCategory.Stayer,
+          ResourcePath("2026/MinskTriathlon/olympic"),
+          EventResultsReader.Configured(
+            "Фамилия Имя",
+            ParseResult.HoursMinutesSecondsMillisOrTens("Время"),
+            ParseGender.ByField("Пол", "М", "Ж")
+          ),
+          800.0,
+          locatedInInnerFolder = true
+        ),
+        EventConfig(
+          EventName("Спринт. Минский Триатлон", "MinskTriathlonSprint"),
+          EventCategory.Sprint,
+          ResourcePath("2026/MinskTriathlon/sprint"),
+          EventResultsReader.Configured(
+            "Фамилия Имя",
+            ParseResult.HoursMinutesSecondsMillisOrTens("Время"),
+            ParseGender.ByField("Пол", "М", "Ж")
+          ),
+          700.0,
+          locatedInInnerFolder = true
+        )
+      )
     )
   )
 

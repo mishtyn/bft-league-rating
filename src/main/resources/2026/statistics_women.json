@@ -3,34 +3,34 @@
     "licenses" : 31
   },
   "total" : {
-    "participants" : 165,
+    "participants" : 357,
     "categories" : {
       "license" : {
-        "licensed" : 80,
-        "unlicensed" : 85
+        "licensed" : 101,
+        "unlicensed" : 256
       },
       "ageGroup" : {
-        "40-49" : 26,
-        "18-29" : 11,
-        "30-39" : 32,
-        "50+" : 11
+        "40-49" : 32,
+        "18-29" : 13,
+        "30-39" : 42,
+        "50+" : 14
       },
       "club" : {
-        "Anaerobe" : 4,
-        "RunStudio" : 2,
-        "Прочерк" : 3,
-        "Виктория/DRC" : 2,
-        "-" : 24,
-        "TRISTYLE" : 1,
-        "Падабайка-RUN" : 4,
-        "Tristyle" : 14,
-        "Altius" : 8,
-        "СК Сож" : 3,
+        "Anaerobe" : 5,
+        "RunStudio" : 3,
+        "Прочерк" : 4,
+        "Виктория/DRC" : 3,
+        "-" : 30,
+        "TRISTYLE" : 2,
+        "Падабайка-RUN" : 5,
+        "Tristyle" : 17,
+        "Altius" : 9,
+        "СК Сож" : 4,
         "БФТ" : 2,
-        "FARTLEK RUNNING CLUB" : 5,
-        "Тристайл" : 1,
-        "—" : 3,
-        "Grebenstar" : 4
+        "FARTLEK RUNNING CLUB" : 6,
+        "Тристайл" : 2,
+        "—" : 4,
+        "Grebenstar" : 5
       }
     }
   },
@@ -264,39 +264,125 @@
           "-" : 3
         }
       }
+    },
+    {
+      "name" : "Полная. Минский Триатлон",
+      "participants" : 10,
+      "categories" : {
+        "license" : {
+          "licensed" : 2,
+          "unlicensed" : 8
+        },
+        "ageGroup" : {
+          "40-49" : 1,
+          "30-39" : 1
+        },
+        "club" : {
+          "-" : 2
+        }
+      }
+    },
+    {
+      "name" : "Половинка. Минский Триатлон",
+      "participants" : 33,
+      "categories" : {
+        "license" : {
+          "licensed" : 6,
+          "unlicensed" : 27
+        },
+        "ageGroup" : {
+          "40-49" : 2,
+          "30-39" : 4
+        },
+        "club" : {
+          "Anaerobe" : 1,
+          "Altius" : 1,
+          "СК Сож" : 1,
+          "-" : 2,
+          "Grebenstar" : 1
+        }
+      }
+    },
+    {
+      "name" : "Олимпийка. Минский Триатлон",
+      "participants" : 64,
+      "categories" : {
+        "license" : {
+          "licensed" : 9,
+          "unlicensed" : 55
+        },
+        "ageGroup" : {
+          "40-49" : 2,
+          "18-29" : 1,
+          "30-39" : 4,
+          "50+" : 2
+        },
+        "club" : {
+          "Tristyle" : 2,
+          "RunStudio" : 1,
+          "Прочерк" : 1,
+          "Виктория/DRC" : 1,
+          "-" : 2,
+          "TRISTYLE" : 1,
+          "Падабайка-RUN" : 1
+        }
+      }
+    },
+    {
+      "name" : "Спринт. Минский Триатлон",
+      "participants" : 85,
+      "categories" : {
+        "license" : {
+          "licensed" : 4,
+          "unlicensed" : 81
+        },
+        "ageGroup" : {
+          "40-49" : 1,
+          "18-29" : 1,
+          "30-39" : 1,
+          "50+" : 1
+        },
+        "club" : {
+          "Tristyle" : 1,
+          "—" : 1,
+          "FARTLEK RUNNING CLUB" : 1,
+          "Тристайл" : 1
+        }
+      }
     }
   ],
   "amountOfParticipations" : {
     "histogram" : {
-      "0" : 8,
-      "5" : 2,
-      "1" : 3,
+      "0" : 7,
+      "5" : 6,
+      "1" : 2,
       "6" : 2,
-      "2" : 4,
-      "3" : 5,
-      "8" : 1,
-      "4" : 6
+      "9" : 1,
+      "2" : 3,
+      "7" : 2,
+      "3" : 4,
+      "4" : 4
     },
     "bestParticipants" : [
       {
         "fioInRussian" : "Марзан Ольга Леонидовна",
-        "participations" : 8
+        "participations" : 9
       },
       {
         "fioInRussian" : "Науменко Анна Александровна",
-        "participations" : 6
+        "participations" : 7
       },
       {
         "fioInRussian" : "Кузнецова Марина Алексеевна",
-        "participations" : 6
+        "participations" : 7
       },
       {
         "fioInRussian" : "Викентьева Елена Александровна",
-        "participations" : 5
+        "participations" : 6
       },
       {
         "fioInRussian" : "Гаврилова Алла Владиславовна",
-        "participations" : 5
+        "participations" : 6
       }
     ]
   }
