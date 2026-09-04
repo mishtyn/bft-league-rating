@@ -3,26 +3,26 @@
     "licenses" : 32
   },
   "total" : {
-    "participants" : 379,
+    "participants" : 383,
     "categories" : {
       "license" : {
-        "licensed" : 117,
-        "unlicensed" : 262
+        "licensed" : 119,
+        "unlicensed" : 264
       },
       "ageGroup" : {
-        "40-49" : 40,
+        "40-49" : 41,
         "18-29" : 14,
-        "30-39" : 48,
+        "30-39" : 49,
         "50+" : 15
       },
       "club" : {
-        "Anaerobe" : 5,
+        "Anaerobe" : 6,
         "RunStudio" : 5,
         "Прочерк" : 4,
         "Виктория/DRC" : 3,
         "-" : 38,
         "TRISTYLE" : 2,
-        "Падабайка-RUN" : 7,
+        "Падабайка-RUN" : 8,
         "Tristyle" : 18,
         "Altius" : 10,
         "СК Сож" : 5,
@@ -410,19 +410,37 @@
           "Падабайка-RUN" : 1
         }
       }
+    },
+    {
+      "name" : "Кросс-триатлон. Браслав",
+      "participants" : 4,
+      "categories" : {
+        "license" : {
+          "licensed" : 2,
+          "unlicensed" : 2
+        },
+        "ageGroup" : {
+          "40-49" : 1,
+          "30-39" : 1
+        },
+        "club" : {
+          "Anaerobe" : 1,
+          "Падабайка-RUN" : 1
+        }
+      }
     }
   ],
   "amountOfParticipations" : {
     "histogram" : {
       "0" : 7,
-      "5" : 8,
+      "5" : 7,
       "10" : 1,
       "1" : 2,
-      "6" : 1,
+      "6" : 2,
       "2" : 4,
-      "7" : 3,
+      "7" : 2,
       "3" : 2,
-      "8" : 2,
+      "8" : 3,
       "4" : 2
     },
     "bestParticipants" : [
@@ -439,11 +457,11 @@
         "participations" : 8
       },
       {
-        "fioInRussian" : "Викентьева Елена Александровна",
-        "participations" : 7
+        "fioInRussian" : "Моисеева Вероника Сергеевна",
+        "participations" : 8
       },
       {
-        "fioInRussian" : "Гаврилова Алла Владиславовна",
+        "fioInRussian" : "Викентьева Елена Александровна",
         "participations" : 7
       }
     ]

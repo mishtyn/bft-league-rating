@@ -3,22 +3,22 @@
     "licenses" : 117
   },
   "total" : {
-    "participants" : 1352,
+    "participants" : 1364,
     "categories" : {
       "license" : {
-        "licensed" : 426,
-        "unlicensed" : 926
+        "licensed" : 437,
+        "unlicensed" : 927
       },
       "ageGroup" : {
         "30-34" : 37,
-        "40-44" : 126,
-        "35-39" : 110,
-        "50-54" : 20,
+        "40-44" : 128,
+        "35-39" : 112,
+        "50-54" : 21,
         "60+" : 4,
-        "55-59" : 15,
-        "18-24" : 21,
-        "25-29" : 30,
-        "45-49" : 63
+        "55-59" : 16,
+        "18-24" : 22,
+        "25-29" : 31,
+        "45-49" : 66
       },
       "club" : {
         "S-sportas" : 2,
@@ -27,28 +27,28 @@
         "UTribe" : 3,
         "Grebenstar" : 8,
         "TRISTYLE" : 5,
-        "ZmitroC Team" : 4,
+        "ZmitroC Team" : 5,
         "NE PROFI" : 8,
         "ON-BIKE" : 10,
         "Arza Running Club" : 5,
         "Yellow submarine" : 10,
         "SQMINSK" : 9,
-        "-----" : 6,
-        "ALTIUS!" : 6,
-        "Tristyle" : 96,
+        "-----" : 7,
+        "ALTIUS!" : 7,
+        "Tristyle" : 101,
         "Altius" : 2,
         "RUN4FUN.BY" : 11,
         "Runstudio" : 4,
         "TriStyle" : 1,
         "Yellow Submarine" : 9,
         "Многобор" : 17,
-        "СК Сож" : 13,
+        "СК Сож" : 14,
         "Altius!" : 19,
         "Крынiца" : 7,
         "TRIVIDA" : 8,
         "Тристайл" : 8,
         "Runonline.by" : 3,
-        "-" : 104,
+        "-" : 106,
         "Triatyle" : 2,
         "Clown’s Triathlon team" : 3,
         "БелНовация" : 3,
@@ -642,29 +642,57 @@
           "Многобор" : 1
         }
       }
+    },
+    {
+      "name" : "Кросс-триатлон. Браслав",
+      "participants" : 12,
+      "categories" : {
+        "license" : {
+          "licensed" : 11,
+          "unlicensed" : 1
+        },
+        "ageGroup" : {
+          "40-44" : 2,
+          "35-39" : 2,
+          "50-54" : 1,
+          "55-59" : 1,
+          "18-24" : 1,
+          "25-29" : 1,
+          "45-49" : 3
+        },
+        "club" : {
+          "-----" : 1,
+          "СК Сож" : 1,
+          "-" : 2,
+          "ZmitroC Team" : 1,
+          "ALTIUS!" : 1,
+          "Tristyle" : 5
+        }
+      }
     }
   ],
   "amountOfParticipations" : {
     "histogram" : {
-      "0" : 16,
+      "0" : 15,
       "5" : 13,
-      "10" : 3,
+      "10" : 2,
       "1" : 15,
-      "6" : 11,
-      "9" : 2,
-      "2" : 22,
-      "7" : 8,
+      "6" : 9,
+      "9" : 4,
+      "2" : 23,
+      "7" : 10,
       "3" : 8,
-      "8" : 8,
-      "4" : 11
+      "11" : 1,
+      "8" : 7,
+      "4" : 10
     },
     "bestParticipants" : [
       {
-        "fioInRussian" : "Шинкарёв Алексей Васильевич",
-        "participations" : 10
+        "fioInRussian" : "Гацко Дмитрий Михайлович",
+        "participations" : 11
       },
       {
-        "fioInRussian" : "Гацко Дмитрий Михайлович",
+        "fioInRussian" : "Шинкарёв Алексей Васильевич",
         "participations" : 10
       },
       {
@@ -676,7 +704,7 @@
         "participations" : 9
       },
       {
-        "fioInRussian" : "Юрков Александр Сергеевич",
+        "fioInRussian" : "Гуштын Никита Александрович",
         "participations" : 9
       }
     ]
