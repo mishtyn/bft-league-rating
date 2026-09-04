@@ -3,31 +3,31 @@
     "licenses" : 32
   },
   "total" : {
-    "participants" : 367,
+    "participants" : 379,
     "categories" : {
       "license" : {
-        "licensed" : 109,
-        "unlicensed" : 258
+        "licensed" : 117,
+        "unlicensed" : 262
       },
       "ageGroup" : {
-        "40-49" : 36,
-        "18-29" : 13,
-        "30-39" : 46,
-        "50+" : 14
+        "40-49" : 40,
+        "18-29" : 14,
+        "30-39" : 48,
+        "50+" : 15
       },
       "club" : {
         "Anaerobe" : 5,
-        "RunStudio" : 4,
+        "RunStudio" : 5,
         "Прочерк" : 4,
         "Виктория/DRC" : 3,
-        "-" : 34,
+        "-" : 38,
         "TRISTYLE" : 2,
-        "Падабайка-RUN" : 6,
-        "Tristyle" : 17,
+        "Падабайка-RUN" : 7,
+        "Tristyle" : 18,
         "Altius" : 10,
         "СК Сож" : 5,
         "БФТ" : 2,
-        "FARTLEK RUNNING CLUB" : 6,
+        "FARTLEK RUNNING CLUB" : 7,
         "Тристайл" : 2,
         "—" : 4,
         "Grebenstar" : 5
@@ -387,20 +387,43 @@
           "Падабайка-RUN" : 1
         }
       }
+    },
+    {
+      "name" : "Акватлон. Солигорск",
+      "participants" : 12,
+      "categories" : {
+        "license" : {
+          "licensed" : 8,
+          "unlicensed" : 4
+        },
+        "ageGroup" : {
+          "40-49" : 4,
+          "18-29" : 1,
+          "30-39" : 2,
+          "50+" : 1
+        },
+        "club" : {
+          "Tristyle" : 1,
+          "RunStudio" : 1,
+          "FARTLEK RUNNING CLUB" : 1,
+          "-" : 4,
+          "Падабайка-RUN" : 1
+        }
+      }
     }
   ],
   "amountOfParticipations" : {
     "histogram" : {
       "0" : 7,
-      "5" : 6,
+      "5" : 8,
       "10" : 1,
       "1" : 2,
-      "6" : 3,
+      "6" : 1,
       "2" : 4,
-      "7" : 1,
+      "7" : 3,
       "3" : 2,
-      "8" : 1,
-      "4" : 5
+      "8" : 2,
+      "4" : 2
     },
     "bestParticipants" : [
       {
@@ -413,15 +436,15 @@
       },
       {
         "fioInRussian" : "Кузнецова Марина Алексеевна",
-        "participations" : 7
+        "participations" : 8
       },
       {
         "fioInRussian" : "Викентьева Елена Александровна",
-        "participations" : 6
+        "participations" : 7
       },
       {
         "fioInRussian" : "Гаврилова Алла Владиславовна",
-        "participations" : 6
+        "participations" : 7
       }
     ]
   }
