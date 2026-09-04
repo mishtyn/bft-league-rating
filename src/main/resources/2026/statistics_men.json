@@ -3,22 +3,22 @@
     "licenses" : 117
   },
   "total" : {
-    "participants" : 1291,
+    "participants" : 1324,
     "categories" : {
       "license" : {
-        "licensed" : 391,
-        "unlicensed" : 900
+        "licensed" : 408,
+        "unlicensed" : 916
       },
       "ageGroup" : {
-        "30-34" : 34,
-        "40-44" : 118,
-        "35-39" : 101,
+        "30-34" : 35,
+        "40-44" : 121,
+        "35-39" : 105,
         "50-54" : 18,
-        "60+" : 3,
-        "55-59" : 14,
+        "60+" : 4,
+        "55-59" : 15,
         "18-24" : 20,
-        "25-29" : 27,
-        "45-49" : 56
+        "25-29" : 29,
+        "45-49" : 61
       },
       "club" : {
         "S-sportas" : 2,
@@ -29,35 +29,36 @@
         "TRISTYLE" : 5,
         "ZmitroC Team" : 4,
         "NE PROFI" : 7,
-        "ON-BIKE" : 9,
+        "ON-BIKE" : 10,
         "Arza Running Club" : 5,
-        "Yellow submarine" : 8,
-        "SQMINSK" : 8,
+        "Yellow submarine" : 9,
+        "SQMINSK" : 9,
         "-----" : 6,
-        "ALTIUS!" : 4,
-        "Tristyle" : 90,
+        "ALTIUS!" : 5,
+        "Tristyle" : 91,
         "Altius" : 2,
         "RUN4FUN.BY" : 10,
         "Runstudio" : 4,
         "TriStyle" : 1,
-        "Yellow Submarine" : 7,
-        "Многобор" : 14,
-        "СК Сож" : 11,
+        "Yellow Submarine" : 8,
+        "Многобор" : 16,
+        "СК Сож" : 13,
         "Altius!" : 19,
-        "Крынiца" : 6,
+        "Крынiца" : 7,
         "TRIVIDA" : 8,
         "Тристайл" : 8,
         "Runonline.by" : 3,
-        "-" : 96,
+        "-" : 99,
         "Triatyle" : 2,
         "Clown’s Triathlon team" : 3,
         "БелНовация" : 3,
         "Blackberry Crew" : 2,
-        "Жёлтая Субмарина" : 6,
+        "Жёлтая Субмарина" : 7,
         "Magicsport" : 7,
-        "Biketourist.club" : 6,
+        "Biketourist.club" : 7,
         "Каяк" : 2,
         "DreamStack" : 2,
+        "ТРИ-О" : 1,
         "nedmotorsport" : 4,
         "tristale.club" : 4
       }
@@ -558,25 +559,78 @@
           "Triatyle" : 1
         }
       }
+    },
+    {
+      "name" : "Кросс-триатлон. Гомель",
+      "participants" : 28,
+      "categories" : {
+        "license" : {
+          "licensed" : 14,
+          "unlicensed" : 14
+        },
+        "ageGroup" : {
+          "30-34" : 1,
+          "40-44" : 3,
+          "35-39" : 3,
+          "60+" : 1,
+          "55-59" : 1,
+          "25-29" : 1,
+          "45-49" : 4
+        },
+        "club" : {
+          "Крынiца" : 1,
+          "-" : 3,
+          "Жёлтая Субмарина" : 1,
+          "ON-BIKE" : 1,
+          "Yellow submarine" : 1,
+          "ALTIUS!" : 1,
+          "Tristyle" : 1,
+          "Многобор" : 2,
+          "СК Сож" : 1,
+          "Biketourist.club" : 1,
+          "ТРИ-О" : 1
+        }
+      }
+    },
+    {
+      "name" : "Кросс-дуатлон. Гомель",
+      "participants" : 5,
+      "categories" : {
+        "license" : {
+          "licensed" : 3,
+          "unlicensed" : 2
+        },
+        "ageGroup" : {
+          "35-39" : 1,
+          "25-29" : 1,
+          "45-49" : 1
+        },
+        "club" : {
+          "SQMINSK" : 1,
+          "Yellow Submarine" : 1,
+          "СК Сож" : 1
+        }
+      }
     }
   ],
   "amountOfParticipations" : {
     "histogram" : {
-      "0" : 17,
-      "5" : 12,
-      "1" : 14,
-      "6" : 9,
-      "9" : 2,
+      "0" : 16,
+      "5" : 17,
+      "10" : 1,
+      "1" : 15,
+      "6" : 7,
+      "9" : 3,
       "2" : 22,
-      "7" : 10,
-      "3" : 9,
+      "7" : 11,
+      "3" : 8,
       "8" : 4,
-      "4" : 18
+      "4" : 13
     },
     "bestParticipants" : [
       {
         "fioInRussian" : "Шинкарёв Алексей Васильевич",
-        "participations" : 9
+        "participations" : 10
       },
       {
         "fioInRussian" : "Гацко Дмитрий Михайлович",
@@ -584,14 +638,14 @@
       },
       {
         "fioInRussian" : "Шипуль Андрей Анатольевич",
-        "participations" : 8
+        "participations" : 9
       },
       {
-        "fioInRussian" : "Девятников Дмитрий Викторович",
-        "participations" : 8
+        "fioInRussian" : "Юрков Александр Сергеевич",
+        "participations" : 9
       },
       {
-        "fioInRussian" : "Элрифай Таха мохамед",
+        "fioInRussian" : "Петровичев Валентин Сергеевич",
         "participations" : 8
       }
     ]

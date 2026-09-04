@@ -244,7 +244,35 @@ object Main extends App {
           locatedInInnerFolder = true
         )
       )
-    )
+    ),
+    CompetitionConfig(
+      name = CompetitionName("Кросс-триатлон. Гомель"),
+      events = List(
+        EventConfig(
+          EventName("Кросс-триатлон. Гомель", "KubokPolesiaKrossGomel"),
+          EventCategory.Multi,
+          ResourcePath("2026/KubokPolesiaKrossGomel"),
+          EventResultsReader.Configured(
+            "Фамилия Имя",
+            ParseResult.HoursMinutesSecondsMillisOrTens("Результат"),
+            ParseGender.ByField("Пол", "М", "Ж")
+          ),
+          700.0
+        ),
+        EventConfig(
+          EventName("Кросс-дуатлон. Гомель", "KubokPolesiaKrossDuoGomel"),
+          EventCategory.Multi,
+          ResourcePath("2026/KubokPolesiaKrossGomel/duo"),
+          EventResultsReader.Configured(
+            "Фамилия Имя",
+            ParseResult.HoursMinutesSecondsMillisOrTens("Результат"),
+            ParseGender.ByField("Пол", "М", "Ж")
+          ),
+          700.0,
+          locatedInInnerFolder = true
+        )
+      )
+    ),
   )
 
   List[Gender](Men, Women).foreach { gender =>
